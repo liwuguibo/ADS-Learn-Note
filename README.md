@@ -1,5 +1,5 @@
 # ADS-Learn-Note
-This repository is my ADS learn note, will be updated according to my study progress.
+This repository is my ADS learn note, and will be updated according to my study progress.
 
 Based on ADS2024.
 
