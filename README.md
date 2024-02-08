@@ -6,7 +6,7 @@ Based on ADS2024.
 
 Each folder contains one compressed file and each compressed file is a workspace after unzip.
 
-**This repo is not a note on Google Ads or Facebook Ads, it is a note on Advanced Design System, which is an EDA tool.**
+**This repo is not a note on Google Ads or Facebook Ads. It is a note on Advanced Design System, which is an EDA tool.**
 
 **Before using these simulation files, please check the textbooks below.**
 ## Textbook1
