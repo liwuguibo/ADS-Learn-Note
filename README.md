@@ -4,6 +4,8 @@ This repository is my ADS learn note, and will be updated according to my study 
 
 Based on ADS2024.
 
+Each folder contains one compressed file and each compressed file is a workspace after unzip.
+
 **This repo is not a note on Google Ads or Facebook Ads, it is a note on Advanced Design System, which is an EDA tool.**
 
 **Before using these simulation files, please check the textbooks below.**
