@@ -16,7 +16,7 @@ Each folder contains one compressed file and each compressed file is a workspace
   
   isbn={9787115184078},
   
-  url={https://books.google.com.hk/books?id=z0WvOwAACAAJ},
+  url={https://books.google.com.hk/books?id=z0WvOwAACAAJ&newbks=1&newbks_redir=0&hl=en&redir_esc=y},
   
   year={2008},
   
