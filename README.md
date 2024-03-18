@@ -31,7 +31,7 @@ Each folder contains one compressed file and each compressed file is a workspace
   
   isbn={9781118213636},
   
-  url={https://books.google.com.hk/books?id=JegbAAAAQBAJ},
+  url={https://books.google.com.hk/books/about/Microwave_Engineering_4th_Edition.html?id=JegbAAAAQBAJ&redir_esc=y},
   
   year={2011},
   
