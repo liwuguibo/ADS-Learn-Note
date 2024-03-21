@@ -10,7 +10,7 @@ Each folder contains one compressed file and each compressed file is a workspace
 
 **Before using these simulation files, please check the textbooks below.**
 
-**A really good Smith Chart tool developed by Fritz Dellsperger can be downloaded [here](http://www.fritz.dellsperger.net/smith.html).**
+**A really good Smith Chart tool developed by Fritz Dellsperger can be accessed [here](http://www.fritz.dellsperger.net/smith.html).**
 ## Textbook1
 @book{2008ads应用详解,
 
