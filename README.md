@@ -9,6 +9,8 @@ Each folder contains one compressed file and each compressed file is a workspace
 **This repo is not a note on Google Ads or Facebook Ads. It is a note on Advanced Design System, which is an EDA tool.**
 
 **Before using these simulation files, please check the textbooks below.**
+
+**A really good Smith Chart tool developed by Fritz Dellsperger can be downloaded [here](http://www.fritz.dellsperger.net/smith.html).**
 ## Textbook1
 @book{2008ads应用详解,
 
