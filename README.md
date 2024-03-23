@@ -1,6 +1,6 @@
 # ADS-Learn-Note
 
-"Very little is new in RF anymore. Almost everything that we see today is a variation on a very old and well understood theme"-- C. Marki
+**"Very little is new in RF anymore. Almost everything that we see today is a variation on a very old and well understood theme"-- C. Marki**
 
 ## About this repo
 This repository is my ADS learn note, and will be updated according to my study progress.
